@@ -11,6 +11,7 @@
     "@bytemd/plugin-gemoji": "^1.21.0",
     "@bytemd/plugin-gfm": "^1.21.0",
     "@bytemd/plugin-highlight": "^1.21.0",
+    "@bytemd/plugin-math": "^1.21.0",
     "@bytemd/vue-next": "^1.21.0",
     "axios": "^1.7.2",
     "core-js": "^3.8.3",
@@ -24,6 +25,7 @@
   "devDependencies": {
     "@arco-design/web-vue": "^2.55.3",
     "@babel/plugin-transform-class-static-block": "^7.24.7",
+    "@rollup/plugin-json": "^6.1.0",
     "@typescript-eslint/eslint-plugin": "^5.4.0",
     "@typescript-eslint/parser": "^5.4.0",
     "@vue/cli-plugin-babel": "~5.0.0",

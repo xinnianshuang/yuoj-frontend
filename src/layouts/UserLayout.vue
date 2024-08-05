@@ -11,6 +11,9 @@
         <router-view />
       </a-layout-content>
       <a-layout-footer class="footer">
+        <a-avatar shape="circle">
+          <img alt="avatar" src="../assets/logo01.png" class="userAvatar" />
+        </a-avatar>
         <a href="https://yupi.icu" target="_blank"> 三金 </a>
       </a-layout-footer>
     </a-layout>
